@@ -4,6 +4,8 @@ Tool for analyzing and visualizing audio noise recorded of heavy industrial mach
 ## INPUT
 .wav files
 
-## OUTPUT
+## OPERATIONS
 - Autocorrelation
 - FFT
+- Peak analyzer (noise)
+- Filter (LP,HP,BP)
