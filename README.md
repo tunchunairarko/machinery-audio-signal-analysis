@@ -1,2 +1,8 @@
-# machinery-audio-signal-analysis
-Tool for analyzing audio noise recorded of heavy industrial machine
+# machinery-audio-signal-analysis (Spectralizer)
+Tool for analyzing and visualizing audio noise recorded of heavy industrial machineries
+
+## INPUT
+.wav files
+
+## OUTPUT
+
