@@ -5,4 +5,5 @@ Tool for analyzing and visualizing audio noise recorded of heavy industrial mach
 .wav files
 
 ## OUTPUT
-
+- Autocorrelation
+- FFT
